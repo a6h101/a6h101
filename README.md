@@ -44,7 +44,9 @@
 
 ###
 
-<img align="left" height="200" src="https://media.tenor.com/qg8lImmxa_sAAAAi/one-piece-monkey-d-luffy.gif"  />
+<div align="right">
+  <img height="200" src="https://media.tenor.com/qg8lImmxa_sAAAAi/one-piece-monkey-d-luffy.gif"  />
+</div>
 
 ###
 
