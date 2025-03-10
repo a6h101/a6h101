@@ -51,11 +51,8 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a6h15&show_icons=true&locale=en&layout=compact" alt="a6h15" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a6h15&show_icons=true&locale=en" alt="a6h15" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a6h15&" alt="a6h15" /></p>
+<img src="https://your-vercel-instance.vercel.app/api?username=a6h15&theme=dracula" alt="GitHub Stats" />
+<img src="https://your-vercel-instance.vercel.app/api/top-langs?username=a6h15&theme=dracula" alt="Top Languages" />
 
 ###
 
