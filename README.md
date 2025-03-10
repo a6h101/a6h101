@@ -51,11 +51,7 @@
 ###
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a6h15&theme=dracula" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a6h15&theme=dracula" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a6h15&theme=dracula" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a6h15&theme=dracula" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a6h15&theme=dracula" alt="Productive Time" />
+  <img src="https://metrics.lecoq.io/a6h15?template=classic&config.timezone=Europe%2FParis" alt="Metrics" />
 </p>
 
 ###
