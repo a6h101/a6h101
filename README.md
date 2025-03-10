@@ -52,14 +52,13 @@
 ###
 # 📊 GitHub Stats:
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=a6h15&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<br/>
-
-<div align="right">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=a6h15&theme=blue_navy&hide_border=true" alt="Streak Stats" />
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=a6h15&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </div>
+  <div>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=a6h15&theme=blue_navy&hide_border=true" alt="Streak Stats" />
+  </div>
 </div>
 
 <br/>
