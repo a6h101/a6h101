@@ -50,10 +50,14 @@
 
 
 ###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=a6h15&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=a6h15&theme=blue_navy&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=a6h15&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a6h15&show_icons=true&locale=en" alt="a6h15" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a6h15&show_icons=true&locale=en&layout=compact" alt="a6h15" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=a6h15&theme=neon&no-frame=true&no-bg=true&margin-w=4)
+
 
 ###
 
