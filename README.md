@@ -68,7 +68,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=a6h15&theme=neon&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
-###
+
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
@@ -80,4 +80,4 @@
   </a>
 </div>
 
-###
+
