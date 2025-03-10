@@ -52,20 +52,16 @@
 ###
 # 📊 GitHub Stats:
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
-  <div style="width: 30%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=a6h15&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </div>
-  <div style="width: 30%;">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=a6h15&theme=blue_navy&hide_border=true" alt="Streak Stats" />
-  </div>
+<div align = "center">
+<img src="https://github-readme-stats.vercel.app/api?username=a6h15&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=a6h15&theme=blue_navy&hide_border=true" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a6h15&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=a6h15&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a6h15&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+
 
 ## 🏆 GitHub Trophies
 
