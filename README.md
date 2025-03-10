@@ -53,10 +53,10 @@
 # 📊 GitHub Stats:
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
-  <div style="width: 49%;">
+  <div style="width: 30%;">
     <img src="https://github-readme-stats.vercel.app/api?username=a6h15&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </div>
-  <div style="width: 49%;">
+  <div style="width: 30%;">
     <img src="https://nirzak-streak-stats.vercel.app/?user=a6h15&theme=blue_navy&hide_border=true" alt="Streak Stats" />
   </div>
 </div>
