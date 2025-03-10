@@ -48,19 +48,14 @@
 
 ###
 
-<div align="right">
-  <img height="200" src="https://media.tenor.com/qg8lImmxa_sAAAAi/one-piece-monkey-d-luffy.gif"  />
-</div>
 
 ###
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a6h15&theme=dracula" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a6h15&theme=dracula" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a6h15&theme=dracula" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a6h15&theme=dracula" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a6h15&theme=dracula" alt="Productive Time" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a6h15&show_icons=true&locale=en&layout=compact" alt="a6h15" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a6h15&show_icons=true&locale=en" alt="a6h15" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a6h15&" alt="a6h15" /></p>
 
 ###
 
