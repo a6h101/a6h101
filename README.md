@@ -52,15 +52,27 @@
 ###
 # 📊 GitHub Stats:
 
-<div align = "center">
-![](https://github-readme-stats.vercel.app/api?username=a6h15&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=a6h15&theme=blue_navy&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=a6h15&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a6h15&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=a6h15&theme=blue_navy&hide_border=true" alt="Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a6h15&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=a6h15&theme=neon&no-frame=true&no-bg=true&margin-w=4)
 
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=a6h15&theme=neon&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 ###
 
 <div align="left">
