@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">Languages and libraries I'm familiar with</h2>
+<h2 align="left">Tech stack</h2>
 
 ###
 
