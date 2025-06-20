@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">A college student who's currently working on some projects that he might not finish(yet)</p>
+<p align="left">A college student who's getting fucked by assingments.</p>
 
 ###
 
