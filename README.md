@@ -1,13 +1,14 @@
-<!--
 <div align="center">
   <img height="200" src="https://media.tenor.com/qg8lImmxa_sAAAAi/one-piece-monkey-d-luffy.gif"  />
 </div>
--->
-<h1 align="center">Hello there 👋 , i'am a6h1</h1>
 
 ###
 
-<p align="left">A college student who's getting fucked by assingments.</p>
+<h1 align="left">Hello there 👋 , its a6h1</h1>
+
+###
+
+<p align="left">A college student who's currently working on some projects (hopefully i finish them)</p>
 
 ###
 
@@ -19,7 +20,7 @@
 
 ###
 
-<h2 align="left">Tech stack</h2>
+<h2 align="left">Languages and libraries I'm familiar with</h2>
 
 ###
 
@@ -53,40 +54,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
-
-
 
 ###
-# 📊 GitHub Stats:
-
-<div align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=a6h15&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=a6h15&theme=blue_navy&hide_border=true" alt="Streak Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a6h15&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=a6h15&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-<br/>
-
-
-
-## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=a6h15&theme=neon&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=a6h15&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a6h15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=a6h15&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=a6h15&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a6h15&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<!--
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="abhushek2004@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="_._bhata_.15" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
--->
+###
 
+<img src="https://raw.githubusercontent.com/a6h15/a6h15/output/snake.svg" alt="Snake animation" />
 
+###
