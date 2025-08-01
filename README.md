@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://preview.redd.it/please-give-me-some-agnes-tachyon-reaction-images-v0-b92evrgm51gf1.jpeg?width=1170&format=pjpg&auto=webp&s=c360c80326a0a2167cb7572b432c8adcc972994e"  />
+  <img height="200" src="https://preview.redd.it/please-give-me-some-agnes-tachyon-reaction-images-v0-teesgnukg0gf1.jpeg?width=794&format=pjpg&auto=webp&s=0a1a311c0185acfd49295f8314e742aa87e2b598"  />
 </div>
 
 ###
