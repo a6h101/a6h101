@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Learning and figuring stuff out <br><br>Interested in : LLMs, AI frameworks , ML and data analytics<br><br>Starting to build and hopefully will finish some stuff to put on display (empty repos as of now)</p>
+<p align="left">Learning and figuring stuff out <br><br>Interested in : LLMs, AI frameworks , ML and data analytics, Game dev(GODOT/GDscript) and cloud computing devops<br><br>Starting to build and hopefully will finish some stuff to put on display (empty repos as of now)</p>
 
 ###
 
