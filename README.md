@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.tenor.com/qg8lImmxa_sAAAAi/one-piece-monkey-d-luffy.gif](https://tenor.com/hU2jRVdVH7B.gif"  />
+  <img height="200" src="https://preview.redd.it/please-give-me-some-agnes-tachyon-reaction-images-v0-b92evrgm51gf1.jpeg?width=1170&format=pjpg&auto=webp&s=c360c80326a0a2167cb7572b432c8adcc972994e"  />
 </div>
 
 ###
