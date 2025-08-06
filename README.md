@@ -76,6 +76,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/a6h101/a6h101/output/snake.svg" alt="Snake animation" />
+
 
 ###
