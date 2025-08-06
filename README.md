@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hello there 👋, its a6h1</h1>
+<h1 align="left">Hello there 👋 , its a6h1</h1>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Learning and figuring stuff out <br><br>Interested in : LLMs, AI frameworks , ML and data analytics, Game dev(GODOT/GDscript) and Devops <br><br> Starting to build and hopefully will finish some stuff to put on display (empty repos as of now)</p>
+<p align="left">Learning and figuring stuff out <br><br>Interested in : LLMs, AI frameworks , ML and data analytics,Game dev(GODOT/GDscript) and Devops<br><br>Starting to build and hopefully will finish some stuff to put on display (empty repos as of now)</p>
 
 ###
 
@@ -76,6 +76,6 @@
 
 ###
 
-
+<img src="https://raw.githubusercontent.com/a6h101/a6h101/output/snake.svg" alt="Snake animation" />
 
 ###
