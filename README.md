@@ -6,6 +6,7 @@
 ###
 
 <p align="left">A college student who's currently working on some projects (hopefully i finish them)</p>
+<p align="left">My commit messages are cries for help</p>
 
 ###
 
