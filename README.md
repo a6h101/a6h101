@@ -68,10 +68,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=a6h101&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a6h101&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=a6h101&theme=dracula&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=a6h101&theme=dracula&row=1&column=6" height="150" alt="trophy graph" />
+  <img src="https://github-profile-trophy-xxxxx-a6h101s-projects.vercel.app/?username=a6h101&theme=dracula" />
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=a6h101&theme=react-dark&area=true" height="300" alt="activity graph" />
 </div>
-iv>
+
 
 ###
 
