@@ -76,16 +76,11 @@
 ###
 
 <div align="center">
+
+  [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a6h101&theme=gruvbox)](https://github.com/a6h101)
+
   
-  <!-- Profile View Counter -->
-  ![Profile Views](https://komarev.com/ghpvc/?username=a6h101&color=blue)
-
-  <!-- Summary Card -->
-  [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a6h101&theme=vue)](https://github.com/a6h101)
-
-  <!-- WakaTime Weekly Stats (from awesome list) -->
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/sponsors?username=a6h101&theme=vue) <!-- Example; swap for WakaTime or others as needed -->
-
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/sponsors?username=a6h101&theme=gruvbox)
 </div>
 
 
