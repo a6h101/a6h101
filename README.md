@@ -75,13 +75,5 @@
 
 ###
 
-<div align="center">
-
-  [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a6h101&theme=gruvbox)](https://github.com/a6h101)
-
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/sponsors?username=a6h101&theme=gruvbox)
-</div>
-
 
 ###
